@@ -367,7 +367,7 @@
 1. [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 1. Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
 1. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
-1. [Introducing ML Model Performance Management (Blog by fiddler)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
+1. [Introducing ML Model Performance Management (Blog by Fiddler AI)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
 1. [What is ML Observability? (Arize AI)](https://arize.com/what-is-ml-observability/)
 1. [Beyond Monitoring: The Rise of Observability (Arize AI & Monte Carlo Data)](https://arize.com/beyond-monitoring-the-rise-of-observability/)
 1. [Model Failure Modes (Arize AI)](https://arize.com/ml-model-failure-modes/)
@@ -381,7 +381,7 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
-1. [Metrics vs. Inferences - which should you monitor? (Fiddler AI)] (https://www.fiddler.ai/blog/should-enterprises-observe-metrics-or-inferences)
+1. [Metrics vs. Inferences - which should you monitor? (Fiddler AI)](https://www.fiddler.ai/blog/should-enterprises-observe-metrics-or-inferences)
 1. [Drift in Machine Learning: How to Identify Issues Before You Have A Problem (Fiddler AI)](https://www.fiddler.ai/blog/drift-in-machine-learning-how-to-identify-issues-before-you-have-a-problem)
 </details>
 
